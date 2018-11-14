@@ -1,0 +1,2655 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 47px;
+    margin-top: 5px;
+    width: 193px;
+    height: 4px;
+    align-items: stretch
+  }
+  .style62,
+  .style67 {
+    color: #fff;
+    font-family: Ubuntu,serif
+  }
+  .style62 {
+    font-weight: 700;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    font-size: .3125em;
+    margin-left: 0
+  }
+  .style67 {
+    font-size: .25em;
+    margin-left: 54px
+  }
+  .style63,
+  .style64,
+  .style65,
+  .style66 {
+    color: rgba(255,255,255,.5);
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    margin-left: 10px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 183px;
+    margin-top: 15px;
+    width: 128px;
+    height: 4px;
+    align-items: stretch
+  }
+  .style61,
+  .style71 {
+    font-family: Ubuntu,serif;
+    font-size: .25em
+  }
+  .style71 {
+    font-weight: 300;
+    color: #414141;
+    margin-left: 0
+  }
+  .style61 {
+    color: #fff;
+    text-align: center;
+    margin-left: 83px
+  }
+  .row2 {
+    display: flex;
+    margin-left: 41px;
+    margin-top: 0;
+    width: 158px;
+    height: 13px
+  }
+  .style44,
+  .style70 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style44 {
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    align-self: stretch;
+    color: #fff;
+    font-size: .75em;
+    margin-left: 0;
+    height: 100%
+  }
+  .style70 {
+    color: #a1a1a1;
+    font-size: .25em;
+    margin-left: 4px;
+    margin-top: 7px;
+    height: 3px
+  }
+  .row3 {
+    display: flex;
+    margin-left: 41px;
+    margin-top: 3px;
+    width: 165px;
+    height: 12px
+  }
+  .style43,
+  .style68,
+  .style69 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style43 {
+    line-height: 8px;
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    margin-left: 0;
+    width: 144px;
+    color: #fff;
+    font-size: .3125em
+  }
+  .style68,
+  .style69 {
+    color: #414141;
+    font-size: .25em;
+    height: 3px
+  }
+  .style69 {
+    position: relative;
+    margin-left: 0
+  }
+  .style68 {
+    margin-left: 183px;
+    margin-top: 0
+  }
+  .row6,
+  .style42 {
+    margin-left: 247px
+  }
+  .style42 {
+    color: #fff;
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 300;
+    margin-top: 1px;
+    height: 3px
+  }
+  .row6 {
+    display: flex;
+    margin-top: 0;
+    width: 82px;
+    height: 12px;
+    align-items: center
+  }
+  .style37,
+  .style41 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style41 {
+    height: 4px;
+    color: #fefefe;
+    font-size: .25em;
+    margin-left: 0
+  }
+  .style37 {
+    color: #fff;
+    text-align: center;
+    font-size: .4375em;
+    line-height: 10px;
+    margin-left: 34px;
+    width: 19px
+  }
+  .row7 {
+    display: flex;
+    margin-left: 247px;
+    margin-top: 1px;
+    width: 49px;
+    height: 3px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style38,
+  .style39,
+  .style40 {
+    color: #fefefe;
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 300
+  }
+  .row8 {
+    display: flex;
+    margin-left: 66px;
+    margin-top: 15px;
+    width: 247px;
+    height: 3px;
+    align-items: stretch
+  }
+  .style45,
+  .style46,
+  .style47,
+  .style60 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .3125em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style45,
+  .style46,
+  .style47 {
+    color: #a1a1a1;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 51px
+  }
+  .style45,
+  .style46 {
+    color: #b8b8b8;
+    margin-left: 46px
+  }
+  .style45 {
+    margin-left: 41px
+  }
+  .row9 {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 22px;
+    width: 224px;
+    height: 5px;
+    align-items: stretch
+  }
+  .style54,
+  .style59 {
+    color: #b9b9b9;
+    font-family: Ubuntu,serif;
+    font-size: .3125em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style54 {
+    color: #5a5a5a;
+    margin-left: 158px
+  }
+  .row10 {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 18px;
+    width: 250px;
+    height: 4px;
+    align-items: center
+  }
+  .style51,
+  .style52,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: .3125em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style51,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #8c8c8c;
+    margin-left: 25px
+  }
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #b9b9b9;
+    margin-left: 24px
+  }
+  .style53,
+  .style56,
+  .style57 {
+    font-size: .5em;
+    margin-left: 16px;
+    height: 0
+  }
+  .style53,
+  .style57 {
+    color: #f66442;
+    font-size: .3125em;
+    margin-left: 10px;
+    height: 100%
+  }
+  .style53 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    margin-left: 35px
+  }
+  .row11 {
+    position: relative;
+    display: flex;
+    margin-left: 133px;
+    margin-top: 15px;
+    width: 103px;
+    height: 4px;
+    align-items: stretch
+  }
+  .style50,
+  .style58 {
+    text-align: center;
+    font-family: Ubuntu,serif;
+    flex-shrink: 0
+  }
+  .style50 {
+    font-weight: 300;
+    position: relative;
+    color: #5a5a5a;
+    font-size: .3125em;
+    margin-left: 0
+  }
+  .style58 {
+    color: #fff;
+    font-size: .25em;
+    margin-left: 60px
+  }
+  .style49 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 132px;
+    margin-top: 10px
+  }
+  .style32,
+  .style36,
+  .style48,
+  .style49 {
+    font-family: Ubuntu,serif;
+    font-size: .3125em;
+    height: 3px
+  }
+  .style36 {
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    color: #a1a1a1;
+    font-weight: 700;
+    margin-left: 41px;
+    margin-top: 0
+  }
+  .style32,
+  .style48 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 132px;
+    margin-top: 7px
+  }
+  .style32 {
+    color: #fff;
+    font-size: .25em;
+    margin-left: 87px;
+    margin-top: 2px
+  }
+  .row16 {
+    display: flex;
+    margin-left: 44px;
+    margin-top: 41px;
+    width: 257px;
+    height: 3px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style23,
+  .style27,
+  .style31,
+  .style35 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 300
+  }
+  .style23,
+  .style27,
+  .style31 {
+    color: #4a83db
+  }
+  .style23,
+  .style27 {
+    color: #414141
+  }
+  .row17 {
+    display: flex;
+    margin-left: 44px;
+    margin-top: 3px;
+    width: 253px;
+    height: 4px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style22,
+  .style26,
+  .style30,
+  .style34 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 300
+  }
+  .row18 {
+    display: flex;
+    margin-left: 85px;
+    margin-top: 10px;
+    width: 240px;
+    height: 5px;
+    align-items: stretch
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29,
+  .style33 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: .375em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29 {
+    margin-left: 51px
+  }
+  .style21,
+  .style25,
+  .style29 {
+    text-align: center;
+    font-size: .25em;
+    margin-left: 15px
+  }
+  .style21,
+  .style29 {
+    margin-left: 24px
+  }
+  .style29 {
+    position: relative;
+    margin-left: 125px;
+    margin-top: 253px;
+    height: 4px
+  }
+  .row20 {
+    display: flex;
+    margin-left: 230px;
+    margin-top: 8px;
+    width: 104px;
+    height: 5px;
+    align-items: stretch
+  }
+  .style20,
+  .style24 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: .375em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style20 {
+    margin-left: 51px
+  }
+  .row21 {
+    display: flex;
+    margin-left: 41px;
+    margin-top: 30px;
+    width: 234px;
+    height: 3px;
+    align-items: stretch
+  }
+  .style16,
+  .style19,
+  .style5 {
+    color: #a1a1a1;
+    font-family: Ubuntu,serif;
+    font-size: .3125em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0
+  }
+  .style16,
+  .style5 {
+    margin-left: 77px
+  }
+  .style5 {
+    margin-left: 67px
+  }
+  .row22 {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 6px;
+    width: 285px;
+    height: 53px
+  }
+  .style18 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 300;
+    line-height: 8px;
+    margin-left: 0;
+    width: 92px;
+    align-self: stretch
+  }
+  .row22column1 {
+    display: flex;
+    margin-left: 14px;
+    margin-top: 4px;
+    width: 7px;
+    height: 50px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style10,
+  .style14,
+  .style15 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .4375em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 5px
+  }
+  .style10,
+  .style14 {
+    font-size: .25em;
+    margin-top: 7px;
+    height: 2px
+  }
+  .style10 {
+    font-size: .4375em;
+    margin-top: 32px;
+    height: 5px
+  }
+  .row22column2 {
+    display: flex;
+    margin-left: 12px;
+    width: 68px;
+    height: 49px;
+    flex-direction: column
+  }
+  .style12,
+  .style13 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .3125em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 5px
+  }
+  .style12 {
+    font-size: .25em;
+    margin-top: 2px;
+    height: 4px
+  }
+  .style11 {
+    color: #5a5a5a;
+    font-size: .25em;
+    line-height: 8px;
+    margin-top: 5px;
+    width: 100%
+  }
+  .style11,
+  .style3,
+  .style4,
+  .style7,
+  .style8 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style8 {
+    color: #4983db;
+    margin-top: 12px;
+    height: 4px;
+    font-size: .3125em
+  }
+  .style3,
+  .style4,
+  .style7 {
+    font-size: .25em
+  }
+  .style4 {
+    line-height: 8px;
+    width: 79px;
+    color: #777;
+    margin-left: 13px;
+    margin-top: 7px
+  }
+  .style3,
+  .style7 {
+    color: #414141;
+    margin-left: 166px;
+    margin-top: 0;
+    height: 4px
+  }
+  .style3 {
+    text-align: right;
+    margin-left: 288px;
+    height: 3px
+  }
+  .row25 {
+    display: flex;
+    margin-left: 41px;
+    margin-top: 2px;
+    width: 272px;
+    height: 18px
+  }
+  .style17 {
+    color: #4983db;
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0;
+    height: 3px
+  }
+  .style9 {
+    color: #414141;
+    text-align: center;
+    margin-left: 79px;
+    height: 2px
+  }
+  .style2,
+  .style6,
+  .style9 {
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 300
+  }
+  .style6 {
+    line-height: 8px;
+    width: 68px;
+    align-self: stretch;
+    color: #5a5a5a;
+    margin-left: 125px
+  }
+  .style2 {
+    color: #000;
+    text-align: right;
+    margin-left: 51px;
+    margin-top: 2px;
+    height: 3px
+  }
+  .row26 {
+    display: flex;
+    margin-left: 41px;
+    margin-top: 31px;
+    width: 187px;
+    height: 5px;
+    align-items: stretch
+  }
+  .style1 {
+    margin-left: 0;
+    width: 46px
+  }
+  .style0 {
+    color: #a7a7a7;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .25em;
+    font-weight: 300;
+    margin-left: 61px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 96px;
+    margin-top: 10px;
+    width: 395px;
+    height: 8px;
+    align-items: stretch
+  }
+  .style62,
+  .style67 {
+    color: #fff;
+    font-family: Ubuntu,serif
+  }
+  .style62 {
+    font-weight: 700;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    font-size: .64em;
+    margin-left: 0
+  }
+  .style67 {
+    font-size: .512em;
+    margin-left: 111px
+  }
+  .style63,
+  .style64,
+  .style65,
+  .style66 {
+    color: rgba(255,255,255,.5);
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    margin-left: 20px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 375px;
+    margin-top: 31px;
+    width: 262px;
+    height: 8px;
+    align-items: stretch
+  }
+  .style61,
+  .style71 {
+    font-family: Ubuntu,serif;
+    font-size: .512em
+  }
+  .style71 {
+    font-weight: 300;
+    color: #414141;
+    margin-left: 0
+  }
+  .style61 {
+    color: #fff;
+    text-align: center;
+    margin-left: 170px
+  }
+  .row2 {
+    display: flex;
+    margin-left: 84px;
+    margin-top: 0;
+    width: 324px;
+    height: 27px
+  }
+  .style44,
+  .style70 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style44 {
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    align-self: stretch;
+    color: #fff;
+    font-size: 1.536em;
+    margin-left: 0;
+    height: 100%
+  }
+  .style70 {
+    color: #a1a1a1;
+    font-size: .512em;
+    margin-left: 8px;
+    margin-top: 14px;
+    height: 6px
+  }
+  .row3 {
+    display: flex;
+    margin-left: 84px;
+    margin-top: 6px;
+    width: 338px;
+    height: 25px
+  }
+  .style43,
+  .style68,
+  .style69 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style43 {
+    line-height: 16px;
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    margin-left: 0;
+    width: 295px;
+    color: #fff;
+    font-size: .64em
+  }
+  .style68,
+  .style69 {
+    color: #414141;
+    font-size: .512em;
+    height: 6px
+  }
+  .style69 {
+    position: relative;
+    margin-left: 0
+  }
+  .style68 {
+    margin-left: 375px;
+    margin-top: 0
+  }
+  .row6,
+  .style42 {
+    margin-left: 506px
+  }
+  .style42 {
+    color: #fff;
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 300;
+    margin-top: 2px;
+    height: 6px
+  }
+  .row6 {
+    display: flex;
+    margin-top: 0;
+    width: 168px;
+    height: 25px;
+    align-items: center
+  }
+  .style37,
+  .style41 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style41 {
+    height: 8px;
+    color: #fefefe;
+    font-size: .512em;
+    margin-left: 0
+  }
+  .style37 {
+    color: #fff;
+    text-align: center;
+    font-size: .896em;
+    line-height: 20px;
+    margin-left: 70px;
+    width: 39px
+  }
+  .row7 {
+    display: flex;
+    margin-left: 506px;
+    margin-top: 2px;
+    width: 100px;
+    height: 6px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style38,
+  .style39,
+  .style40 {
+    color: #fefefe;
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 300
+  }
+  .row8 {
+    display: flex;
+    margin-left: 135px;
+    margin-top: 31px;
+    width: 506px;
+    height: 6px;
+    align-items: stretch
+  }
+  .style45,
+  .style46,
+  .style47,
+  .style60 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .64em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style45,
+  .style46,
+  .style47 {
+    color: #a1a1a1;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 104px
+  }
+  .style45,
+  .style46 {
+    color: #b8b8b8;
+    margin-left: 94px
+  }
+  .style45 {
+    margin-left: 84px
+  }
+  .row9 {
+    display: flex;
+    margin-left: 123px;
+    margin-top: 45px;
+    width: 459px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style54,
+  .style59 {
+    color: #b9b9b9;
+    font-family: Ubuntu,serif;
+    font-size: .64em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style54 {
+    color: #5a5a5a;
+    margin-left: 324px
+  }
+  .row10 {
+    display: flex;
+    margin-left: 123px;
+    margin-top: 37px;
+    width: 512px;
+    height: 8px;
+    align-items: center
+  }
+  .style51,
+  .style52,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: .64em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style51,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #8c8c8c;
+    margin-left: 51px
+  }
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #b9b9b9;
+    margin-left: 49px
+  }
+  .style53,
+  .style56,
+  .style57 {
+    font-size: 1.024em;
+    margin-left: 33px;
+    height: 0
+  }
+  .style53,
+  .style57 {
+    color: #f66442;
+    font-size: .64em;
+    margin-left: 20px;
+    height: 100%
+  }
+  .style53 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    margin-left: 72px
+  }
+  .row11 {
+    position: relative;
+    display: flex;
+    margin-left: 272px;
+    margin-top: 31px;
+    width: 211px;
+    height: 8px;
+    align-items: stretch
+  }
+  .style50,
+  .style58 {
+    text-align: center;
+    font-family: Ubuntu,serif;
+    flex-shrink: 0
+  }
+  .style50 {
+    font-weight: 300;
+    position: relative;
+    color: #5a5a5a;
+    font-size: .64em;
+    margin-left: 0
+  }
+  .style58 {
+    color: #fff;
+    font-size: .512em;
+    margin-left: 123px
+  }
+  .style49 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 270px;
+    margin-top: 20px
+  }
+  .style32,
+  .style36,
+  .style48,
+  .style49 {
+    font-family: Ubuntu,serif;
+    font-size: .64em;
+    height: 6px
+  }
+  .style36 {
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    color: #a1a1a1;
+    font-weight: 700;
+    margin-left: 84px;
+    margin-top: 0
+  }
+  .style32,
+  .style48 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 270px;
+    margin-top: 14px
+  }
+  .style32 {
+    color: #fff;
+    font-size: .512em;
+    margin-left: 178px;
+    margin-top: 4px
+  }
+  .row16 {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 84px;
+    width: 526px;
+    height: 6px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style23,
+  .style27,
+  .style31,
+  .style35 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 300
+  }
+  .style23,
+  .style27,
+  .style31 {
+    color: #4a83db
+  }
+  .style23,
+  .style27 {
+    color: #414141
+  }
+  .row17 {
+    display: flex;
+    margin-left: 90px;
+    margin-top: 6px;
+    width: 518px;
+    height: 8px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style22,
+  .style26,
+  .style30,
+  .style34 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 300
+  }
+  .row18 {
+    display: flex;
+    margin-left: 174px;
+    margin-top: 20px;
+    width: 492px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29,
+  .style33 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: .768em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29 {
+    margin-left: 104px
+  }
+  .style21,
+  .style25,
+  .style29 {
+    text-align: center;
+    font-size: .512em;
+    margin-left: 31px
+  }
+  .style21,
+  .style29 {
+    margin-left: 49px
+  }
+  .style29 {
+    position: relative;
+    margin-left: 256px;
+    margin-top: 518px;
+    height: 8px
+  }
+  .row20 {
+    display: flex;
+    margin-left: 471px;
+    margin-top: 16px;
+    width: 213px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style20,
+  .style24 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: .768em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style20 {
+    margin-left: 104px
+  }
+  .row21 {
+    display: flex;
+    margin-left: 84px;
+    margin-top: 61px;
+    width: 479px;
+    height: 6px;
+    align-items: stretch
+  }
+  .style16,
+  .style19,
+  .style5 {
+    color: #a1a1a1;
+    font-family: Ubuntu,serif;
+    font-size: .64em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0
+  }
+  .style16,
+  .style5 {
+    margin-left: 158px
+  }
+  .style5 {
+    margin-left: 137px
+  }
+  .row22 {
+    display: flex;
+    margin-left: 82px;
+    margin-top: 12px;
+    width: 584px;
+    height: 109px
+  }
+  .style18 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 300;
+    line-height: 16px;
+    margin-left: 0;
+    width: 188px;
+    align-self: stretch
+  }
+  .row22column1 {
+    display: flex;
+    margin-left: 29px;
+    margin-top: 8px;
+    width: 14px;
+    height: 102px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style10,
+  .style14,
+  .style15 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .896em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 10px
+  }
+  .style10,
+  .style14 {
+    font-size: .512em;
+    margin-top: 14px;
+    height: 4px
+  }
+  .style10 {
+    font-size: .896em;
+    margin-top: 66px;
+    height: 10px
+  }
+  .row22column2 {
+    display: flex;
+    margin-left: 25px;
+    width: 139px;
+    height: 100px;
+    flex-direction: column
+  }
+  .style12,
+  .style13 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .64em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 10px
+  }
+  .style12 {
+    font-size: .512em;
+    margin-top: 4px;
+    height: 8px
+  }
+  .style11 {
+    color: #5a5a5a;
+    font-size: .512em;
+    line-height: 16px;
+    margin-top: 10px;
+    width: 100%
+  }
+  .style11,
+  .style3,
+  .style4,
+  .style7,
+  .style8 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style8 {
+    color: #4983db;
+    margin-top: 25px;
+    height: 8px;
+    font-size: .64em
+  }
+  .style3,
+  .style4,
+  .style7 {
+    font-size: .512em
+  }
+  .style4 {
+    line-height: 16px;
+    width: 162px;
+    color: #777;
+    margin-left: 27px;
+    margin-top: 14px
+  }
+  .style3,
+  .style7 {
+    color: #414141;
+    margin-left: 340px;
+    margin-top: 0;
+    height: 8px
+  }
+  .style3 {
+    text-align: right;
+    margin-left: 590px;
+    height: 6px
+  }
+  .row25 {
+    display: flex;
+    margin-left: 84px;
+    margin-top: 4px;
+    width: 557px;
+    height: 37px
+  }
+  .style17 {
+    color: #4983db;
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0;
+    height: 6px
+  }
+  .style9 {
+    color: #414141;
+    text-align: center;
+    margin-left: 162px;
+    height: 4px
+  }
+  .style2,
+  .style6,
+  .style9 {
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 300
+  }
+  .style6 {
+    line-height: 16px;
+    width: 139px;
+    align-self: stretch;
+    color: #5a5a5a;
+    margin-left: 256px
+  }
+  .style2 {
+    color: #000;
+    text-align: right;
+    margin-left: 104px;
+    margin-top: 4px;
+    height: 6px
+  }
+  .row26 {
+    display: flex;
+    margin-left: 84px;
+    margin-top: 63px;
+    width: 383px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style1 {
+    margin-left: 0;
+    width: 94px
+  }
+  .style0 {
+    color: #a7a7a7;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .512em;
+    font-weight: 300;
+    margin-left: 125px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 115px;
+    margin-top: 12px;
+    width: 473px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style62 {
+    color: #fff;
+    font-family: Ubuntu,serif;
+    font-size: .7666666666666666em;
+    font-weight: 700;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    margin-left: 0
+  }
+  .style63,
+  .style64,
+  .style65,
+  .style66,
+  .style67 {
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em
+  }
+  .style67 {
+    color: #fff;
+    margin-left: 132px
+  }
+  .style63,
+  .style64,
+  .style65,
+  .style66 {
+    color: rgba(255,255,255,.5);
+    margin-left: 25px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 449px;
+    margin-top: 37px;
+    width: 314px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style61,
+  .style71 {
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em
+  }
+  .style71 {
+    font-weight: 300;
+    color: #414141;
+    margin-left: 0
+  }
+  .style61 {
+    color: #fff;
+    text-align: center;
+    margin-left: 204px
+  }
+  .row2 {
+    display: flex;
+    margin-left: 101px;
+    margin-top: 0;
+    width: 388px;
+    height: 32px
+  }
+  .style44,
+  .style70 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style44 {
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    align-self: stretch;
+    color: #fff;
+    font-size: 1.8399999999999999em;
+    margin-left: 0;
+    height: 100%
+  }
+  .style70 {
+    color: #a1a1a1;
+    font-size: .6133333333333333em;
+    margin-left: 10px;
+    margin-top: 17px;
+    height: 7px
+  }
+  .row3 {
+    display: flex;
+    margin-left: 101px;
+    margin-top: 7px;
+    width: 405px;
+    height: 29px
+  }
+  .style43,
+  .style68,
+  .style69 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style43 {
+    line-height: 20px;
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    margin-left: 0;
+    width: 353px;
+    color: #fff;
+    font-size: .7666666666666666em
+  }
+  .style68,
+  .style69 {
+    color: #414141;
+    font-size: .6133333333333333em;
+    height: 7px
+  }
+  .style69 {
+    position: relative;
+    margin-left: 0
+  }
+  .style68 {
+    margin-left: 449px;
+    margin-top: 0
+  }
+  .row6,
+  .style42 {
+    margin-left: 606px
+  }
+  .style42 {
+    color: #fff;
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 300;
+    margin-top: 2px;
+    height: 7px
+  }
+  .row6 {
+    display: flex;
+    margin-top: 0;
+    width: 201px;
+    height: 29px;
+    align-items: center
+  }
+  .style37,
+  .style41 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style41 {
+    height: 10px;
+    color: #fefefe;
+    font-size: .6133333333333333em;
+    margin-left: 0
+  }
+  .style37 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.0733333333333333em;
+    line-height: 25px;
+    margin-left: 83px;
+    width: 47px
+  }
+  .row7 {
+    display: flex;
+    margin-left: 606px;
+    margin-top: 2px;
+    width: 120px;
+    height: 7px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style38,
+  .style39,
+  .style40 {
+    color: #fefefe;
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 300
+  }
+  .row8 {
+    display: flex;
+    margin-left: 162px;
+    margin-top: 37px;
+    width: 606px;
+    height: 7px;
+    align-items: stretch
+  }
+  .style45,
+  .style46,
+  .style47,
+  .style60 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .7666666666666666em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style45,
+  .style46,
+  .style47 {
+    color: #a1a1a1;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 125px
+  }
+  .style45,
+  .style46 {
+    color: #b8b8b8;
+    margin-left: 113px
+  }
+  .style45 {
+    margin-left: 101px
+  }
+  .row9 {
+    display: flex;
+    margin-left: 147px;
+    margin-top: 54px;
+    width: 550px;
+    height: 12px;
+    align-items: stretch
+  }
+  .style54,
+  .style59 {
+    color: #b9b9b9;
+    font-family: Ubuntu,serif;
+    font-size: .7666666666666666em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style54 {
+    color: #5a5a5a;
+    margin-left: 388px
+  }
+  .row10 {
+    display: flex;
+    margin-left: 147px;
+    margin-top: 44px;
+    width: 613px;
+    height: 10px;
+    align-items: center
+  }
+  .style51,
+  .style52,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: .7666666666666666em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style51,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #8c8c8c;
+    margin-left: 61px
+  }
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #b9b9b9;
+    margin-left: 59px
+  }
+  .style53,
+  .style56,
+  .style57 {
+    font-size: 1.2266666666666666em;
+    margin-left: 39px;
+    height: 0
+  }
+  .style53,
+  .style57 {
+    color: #f66442;
+    font-size: .7666666666666666em;
+    margin-left: 25px;
+    height: 100%
+  }
+  .style53 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    margin-left: 86px
+  }
+  .row11 {
+    position: relative;
+    display: flex;
+    margin-left: 326px;
+    margin-top: 37px;
+    width: 253px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style50,
+  .style58 {
+    text-align: center;
+    font-family: Ubuntu,serif;
+    flex-shrink: 0
+  }
+  .style50 {
+    font-weight: 300;
+    position: relative;
+    color: #5a5a5a;
+    font-size: .7666666666666666em;
+    margin-left: 0
+  }
+  .style58 {
+    color: #fff;
+    font-size: .6133333333333333em;
+    margin-left: 147px
+  }
+  .style49 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 324px;
+    margin-top: 25px
+  }
+  .style32,
+  .style36,
+  .style48,
+  .style49 {
+    font-family: Ubuntu,serif;
+    font-size: .7666666666666666em;
+    height: 7px
+  }
+  .style36 {
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    color: #a1a1a1;
+    font-weight: 700;
+    margin-left: 101px;
+    margin-top: 0
+  }
+  .style32,
+  .style48 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 324px;
+    margin-top: 17px
+  }
+  .style32 {
+    color: #fff;
+    font-size: .6133333333333333em;
+    margin-left: 213px;
+    margin-top: 5px
+  }
+  .row16 {
+    display: flex;
+    margin-left: 108px;
+    margin-top: 101px;
+    width: 631px;
+    height: 7px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style23,
+  .style27,
+  .style31,
+  .style35 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 300
+  }
+  .style23,
+  .style27,
+  .style31 {
+    color: #4a83db
+  }
+  .style23,
+  .style27 {
+    color: #414141
+  }
+  .row17 {
+    display: flex;
+    margin-left: 108px;
+    margin-top: 7px;
+    width: 621px;
+    height: 10px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style22,
+  .style26,
+  .style30,
+  .style34 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 300
+  }
+  .row18 {
+    display: flex;
+    margin-left: 209px;
+    margin-top: 25px;
+    width: 589px;
+    height: 12px;
+    align-items: stretch
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29,
+  .style33 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: .9199999999999999em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29 {
+    margin-left: 125px
+  }
+  .style21,
+  .style25,
+  .style29 {
+    text-align: center;
+    font-size: .6133333333333333em;
+    margin-left: 37px
+  }
+  .style21,
+  .style29 {
+    margin-left: 59px
+  }
+  .style29 {
+    position: relative;
+    margin-left: 307px;
+    margin-top: 621px;
+    height: 10px
+  }
+  .row20 {
+    display: flex;
+    margin-left: 564px;
+    margin-top: 20px;
+    width: 255px;
+    height: 12px;
+    align-items: stretch
+  }
+  .style20,
+  .style24 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: .9199999999999999em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style20 {
+    margin-left: 125px
+  }
+  .row21 {
+    display: flex;
+    margin-left: 101px;
+    margin-top: 74px;
+    width: 574px;
+    height: 7px;
+    align-items: stretch
+  }
+  .style16,
+  .style19,
+  .style5 {
+    color: #a1a1a1;
+    font-family: Ubuntu,serif;
+    font-size: .7666666666666666em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0
+  }
+  .style16,
+  .style5 {
+    margin-left: 189px
+  }
+  .style5 {
+    margin-left: 164px
+  }
+  .row22 {
+    display: flex;
+    margin-left: 98px;
+    margin-top: 15px;
+    width: 699px;
+    height: 130px
+  }
+  .style18 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 300;
+    line-height: 20px;
+    margin-left: 0;
+    width: 226px;
+    align-self: stretch
+  }
+  .row22column1 {
+    display: flex;
+    margin-left: 34px;
+    margin-top: 10px;
+    width: 17px;
+    height: 123px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style10,
+  .style14,
+  .style15 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: 1.0733333333333333em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 12px
+  }
+  .style10,
+  .style14 {
+    font-size: .6133333333333333em;
+    margin-top: 17px;
+    height: 5px
+  }
+  .style10 {
+    font-size: 1.0733333333333333em;
+    margin-top: 79px;
+    height: 12px
+  }
+  .row22column2 {
+    display: flex;
+    margin-left: 29px;
+    width: 167px;
+    height: 120px;
+    flex-direction: column
+  }
+  .style13 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .7666666666666666em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 12px
+  }
+  .style11,
+  .style12 {
+    font-size: .6133333333333333em
+  }
+  .style12 {
+    font-family: Ubuntu,serif;
+    font-weight: 300;
+    height: 10px;
+    color: #414141;
+    margin-top: 5px
+  }
+  .style11 {
+    color: #5a5a5a;
+    line-height: 20px;
+    margin-top: 12px;
+    width: 100%
+  }
+  .style11,
+  .style3,
+  .style4,
+  .style7,
+  .style8 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style8 {
+    color: #4983db;
+    margin-top: 29px;
+    height: 10px;
+    font-size: .7666666666666666em
+  }
+  .style3,
+  .style4,
+  .style7 {
+    font-size: .6133333333333333em
+  }
+  .style4 {
+    line-height: 20px;
+    width: 194px;
+    color: #777;
+    margin-left: 32px;
+    margin-top: 17px
+  }
+  .style3,
+  .style7 {
+    color: #414141;
+    margin-left: 407px;
+    margin-top: 0;
+    height: 10px
+  }
+  .style3 {
+    text-align: right;
+    margin-left: 707px;
+    height: 7px
+  }
+  .row25 {
+    display: flex;
+    margin-left: 101px;
+    margin-top: 5px;
+    width: 667px;
+    height: 44px
+  }
+  .style17 {
+    color: #4983db;
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0;
+    height: 7px
+  }
+  .style9 {
+    color: #414141;
+    text-align: center;
+    margin-left: 194px;
+    height: 5px
+  }
+  .style2,
+  .style6,
+  .style9 {
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 300
+  }
+  .style6 {
+    line-height: 20px;
+    width: 167px;
+    align-self: stretch;
+    color: #5a5a5a;
+    margin-left: 307px
+  }
+  .style2 {
+    color: #000;
+    text-align: right;
+    margin-left: 125px;
+    margin-top: 5px;
+    height: 7px
+  }
+  .row26 {
+    display: flex;
+    margin-left: 101px;
+    margin-top: 76px;
+    width: 459px;
+    height: 12px;
+    align-items: stretch
+  }
+  .style1 {
+    margin-left: 0;
+    width: 113px
+  }
+  .style0 {
+    color: #a7a7a7;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .6133333333333333em;
+    font-weight: 300;
+    margin-left: 150px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .row0 {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 16px;
+    width: 618px;
+    height: 13px;
+    align-items: stretch
+  }
+  .style62,
+  .style67 {
+    color: #fff;
+    font-family: Ubuntu,serif
+  }
+  .style62 {
+    font-weight: 700;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    font-size: 1em;
+    margin-left: 0
+  }
+  .style67 {
+    font-size: .8em;
+    margin-left: 173px
+  }
+  .style63,
+  .style64,
+  .style65,
+  .style66 {
+    color: rgba(255,255,255,.5);
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    margin-left: 32px
+  }
+  .row1 {
+    display: flex;
+    margin-left: 586px;
+    margin-top: 48px;
+    width: 410px;
+    height: 13px;
+    align-items: stretch
+  }
+  .style61,
+  .style71 {
+    font-family: Ubuntu,serif;
+    font-size: .8em
+  }
+  .style71 {
+    font-weight: 300;
+    color: #414141;
+    margin-left: 0
+  }
+  .style61 {
+    color: #fff;
+    text-align: center;
+    margin-left: 266px
+  }
+  .row2 {
+    display: flex;
+    margin-left: 131px;
+    margin-top: 0;
+    width: 506px;
+    height: 42px
+  }
+  .style44,
+  .style70 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style44 {
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    align-self: stretch;
+    color: #fff;
+    font-size: 2.4000000000000004em;
+    margin-left: 0;
+    height: 100%
+  }
+  .style70 {
+    color: #a1a1a1;
+    font-size: .8em;
+    margin-left: 13px;
+    margin-top: 22px;
+    height: 10px
+  }
+  .row3 {
+    display: flex;
+    margin-left: 131px;
+    margin-top: 10px;
+    width: 528px;
+    height: 38px
+  }
+  .style43,
+  .style68,
+  .style69 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style43 {
+    line-height: 26px;
+    text-shadow: 0 0 1px rgba(0,0,0,.6);
+    margin-left: 0;
+    width: 461px;
+    color: #fff;
+    font-size: 1em
+  }
+  .style68,
+  .style69 {
+    color: #414141;
+    font-size: .8em;
+    height: 10px
+  }
+  .style69 {
+    position: relative;
+    margin-left: 0
+  }
+  .style68 {
+    margin-left: 586px;
+    margin-top: 0
+  }
+  .row6,
+  .style42 {
+    margin-left: 790px
+  }
+  .style42 {
+    color: #fff;
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 300;
+    margin-top: 3px;
+    height: 10px
+  }
+  .row6 {
+    display: flex;
+    margin-top: 0;
+    width: 262px;
+    height: 38px;
+    align-items: center
+  }
+  .style37,
+  .style41 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style41 {
+    height: 13px;
+    color: #fefefe;
+    font-size: .8em;
+    margin-left: 0
+  }
+  .style37 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.4000000000000001em;
+    line-height: 32px;
+    margin-left: 109px;
+    width: 61px
+  }
+  .row7 {
+    display: flex;
+    margin-left: 790px;
+    margin-top: 3px;
+    width: 157px;
+    height: 10px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style38,
+  .style39,
+  .style40 {
+    color: #fefefe;
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 300
+  }
+  .row8 {
+    display: flex;
+    margin-left: 211px;
+    margin-top: 48px;
+    width: 790px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style45,
+  .style46,
+  .style47,
+  .style60 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: 1em;
+    font-weight: 700;
+    margin-left: 0
+  }
+  .style45,
+  .style46,
+  .style47 {
+    color: #a1a1a1;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 163px
+  }
+  .style45,
+  .style46 {
+    color: #b8b8b8;
+    margin-left: 147px
+  }
+  .style45 {
+    margin-left: 131px
+  }
+  .row9 {
+    display: flex;
+    margin-left: 192px;
+    margin-top: 70px;
+    width: 717px;
+    height: 16px;
+    align-items: stretch
+  }
+  .style54,
+  .style59 {
+    color: #b9b9b9;
+    font-family: Ubuntu,serif;
+    font-size: 1em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style54 {
+    color: #5a5a5a;
+    margin-left: 506px
+  }
+  .row10 {
+    display: flex;
+    margin-left: 192px;
+    margin-top: 58px;
+    width: 800px;
+    height: 13px;
+    align-items: center
+  }
+  .style51,
+  .style52,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: 1em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style51,
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #8c8c8c;
+    margin-left: 80px
+  }
+  .style53,
+  .style55,
+  .style56,
+  .style57 {
+    color: #b9b9b9;
+    margin-left: 77px
+  }
+  .style53,
+  .style56,
+  .style57 {
+    font-size: 1.6em;
+    margin-left: 51px;
+    height: 0
+  }
+  .style53,
+  .style57 {
+    color: #f66442;
+    font-size: 1em;
+    margin-left: 32px;
+    height: 100%
+  }
+  .style53 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+    margin-left: 112px
+  }
+  .row11 {
+    position: relative;
+    display: flex;
+    margin-left: 426px;
+    margin-top: 48px;
+    width: 330px;
+    height: 13px;
+    align-items: stretch
+  }
+  .style50,
+  .style58 {
+    text-align: center;
+    font-family: Ubuntu,serif;
+    flex-shrink: 0
+  }
+  .style50 {
+    font-weight: 300;
+    position: relative;
+    color: #5a5a5a;
+    font-size: 1em;
+    margin-left: 0
+  }
+  .style58 {
+    color: #fff;
+    font-size: .8em;
+    margin-left: 192px
+  }
+  .style49 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 422px;
+    margin-top: 32px
+  }
+  .style32,
+  .style36,
+  .style48,
+  .style49 {
+    font-family: Ubuntu,serif;
+    font-size: 1em;
+    height: 10px
+  }
+  .style36 {
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    color: #a1a1a1;
+    font-weight: 700;
+    margin-left: 131px;
+    margin-top: 0
+  }
+  .style32,
+  .style48 {
+    color: #5a5a5a;
+    text-align: center;
+    font-weight: 300;
+    margin-left: 422px;
+    margin-top: 22px
+  }
+  .style32 {
+    color: #fff;
+    font-size: .8em;
+    margin-left: 278px;
+    margin-top: 6px
+  }
+  .row16 {
+    display: flex;
+    margin-left: 141px;
+    margin-top: 131px;
+    width: 822px;
+    height: 10px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style23,
+  .style27,
+  .style31,
+  .style35 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 300
+  }
+  .style23,
+  .style27,
+  .style31 {
+    color: #4a83db
+  }
+  .style23,
+  .style27 {
+    color: #414141
+  }
+  .row17 {
+    display: flex;
+    margin-left: 141px;
+    margin-top: 10px;
+    width: 810px;
+    height: 13px;
+    align-items: stretch;
+    justify-content: space-between
+  }
+  .style22,
+  .style26,
+  .style30,
+  .style34 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 300
+  }
+  .row18 {
+    display: flex;
+    margin-left: 272px;
+    margin-top: 32px;
+    width: 768px;
+    height: 16px;
+    align-items: stretch
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29,
+  .style33 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: 1.2000000000000002em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style21,
+  .style25,
+  .style28,
+  .style29 {
+    margin-left: 163px
+  }
+  .style21,
+  .style25,
+  .style29 {
+    text-align: center;
+    font-size: .8em;
+    margin-left: 48px
+  }
+  .style21,
+  .style29 {
+    margin-left: 77px
+  }
+  .style29 {
+    position: relative;
+    margin-left: 400px;
+    margin-top: 810px;
+    height: 13px
+  }
+  .row20 {
+    display: flex;
+    margin-left: 736px;
+    margin-top: 26px;
+    width: 333px;
+    height: 16px;
+    align-items: stretch
+  }
+  .style20,
+  .style24 {
+    color: #414141;
+    text-align: right;
+    font-family: Ubuntu,serif;
+    font-size: 1.2000000000000002em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style20 {
+    margin-left: 163px
+  }
+  .row21 {
+    display: flex;
+    margin-left: 131px;
+    margin-top: 96px;
+    width: 749px;
+    height: 10px;
+    align-items: stretch
+  }
+  .style16,
+  .style19,
+  .style5 {
+    color: #a1a1a1;
+    font-family: Ubuntu,serif;
+    font-size: 1em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0
+  }
+  .style16,
+  .style5 {
+    margin-left: 246px
+  }
+  .style5 {
+    margin-left: 214px
+  }
+  .row22 {
+    display: flex;
+    margin-left: 128px;
+    margin-top: 19px;
+    width: 912px;
+    height: 170px
+  }
+  .style18 {
+    color: #5a5a5a;
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 300;
+    line-height: 26px;
+    margin-left: 0;
+    width: 294px;
+    align-self: stretch
+  }
+  .row22column1 {
+    display: flex;
+    margin-left: 45px;
+    margin-top: 13px;
+    width: 22px;
+    height: 160px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style10,
+  .style14,
+  .style15 {
+    color: #414141;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: 1.4000000000000001em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 16px
+  }
+  .style10,
+  .style14 {
+    font-size: .8em;
+    margin-top: 22px;
+    height: 6px
+  }
+  .style10 {
+    font-size: 1.4000000000000001em;
+    margin-top: 102px;
+    height: 16px
+  }
+  .row22column2 {
+    display: flex;
+    margin-left: 38px;
+    width: 218px;
+    height: 157px;
+    flex-direction: column
+  }
+  .style12,
+  .style13 {
+    color: #414141;
+    font-family: Ubuntu,serif;
+    font-size: 1em;
+    font-weight: 300;
+    margin-top: 0;
+    height: 16px
+  }
+  .style12 {
+    font-size: .8em;
+    margin-top: 6px;
+    height: 13px
+  }
+  .style11 {
+    color: #5a5a5a;
+    font-size: .8em;
+    line-height: 26px;
+    margin-top: 16px;
+    width: 100%
+  }
+  .style11,
+  .style3,
+  .style4,
+  .style7,
+  .style8 {
+    font-family: Ubuntu,serif;
+    font-weight: 300
+  }
+  .style8 {
+    color: #4983db;
+    margin-top: 38px;
+    height: 13px;
+    font-size: 1em
+  }
+  .style3,
+  .style4,
+  .style7 {
+    font-size: .8em
+  }
+  .style4 {
+    line-height: 26px;
+    width: 253px;
+    color: #777;
+    margin-left: 42px;
+    margin-top: 22px
+  }
+  .style3,
+  .style7 {
+    color: #414141;
+    margin-left: 531px;
+    margin-top: 0;
+    height: 13px
+  }
+  .style3 {
+    text-align: right;
+    margin-left: 922px;
+    height: 10px
+  }
+  .row25 {
+    display: flex;
+    margin-left: 131px;
+    margin-top: 6px;
+    width: 870px;
+    height: 58px
+  }
+  .style17 {
+    color: #4983db;
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.4);
+    margin-left: 0;
+    height: 10px
+  }
+  .style9 {
+    color: #414141;
+    text-align: center;
+    margin-left: 253px;
+    height: 6px
+  }
+  .style2,
+  .style6,
+  .style9 {
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 300
+  }
+  .style6 {
+    line-height: 26px;
+    width: 218px;
+    align-self: stretch;
+    color: #5a5a5a;
+    margin-left: 400px
+  }
+  .style2 {
+    color: #000;
+    text-align: right;
+    margin-left: 163px;
+    margin-top: 6px;
+    height: 10px
+  }
+  .row26 {
+    display: flex;
+    margin-left: 131px;
+    margin-top: 99px;
+    width: 598px;
+    height: 16px;
+    align-items: stretch
+  }
+  .style1 {
+    margin-left: 0;
+    width: 147px
+  }
+  .style0 {
+    color: #a7a7a7;
+    text-align: center;
+    font-family: Ubuntu,serif;
+    font-size: .8em;
+    font-weight: 300;
+    margin-left: 195px
+  }
+}
